@@ -67,6 +67,9 @@ body {
 .card:first-child {
   margin-top: 0;
 }
+.card:last-child{
+margin-bottom: 20px;
+}
 .card h2 {
   margin-bottom: 10px;
 }
